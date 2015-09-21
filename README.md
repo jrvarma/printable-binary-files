@@ -1,5 +1,6 @@
 # printable-binary-files
-A short python script that creates a printable python script that when run recreates the original binary file.
+A short python script that creates a printable python script that when run recreates the original binary file. The 
+motivation for this is covered in [my blog post](https://jrvcomputing.wordpress.com/2015/09/20/digital-wills-and-printable-password-vaults/) on Digital Wills and Printable Password Vaults.
 
 Usage
 
